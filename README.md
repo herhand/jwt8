@@ -1,5 +1,5 @@
 # Laravel 8 JWT API 
-Based on Laravel 8 Passport
+Based on Laravel 8 JWT
 
 ## Source
 * https://www.positronx.io/laravel-jwt-authentication-tutorial-user-login-signup-api/
